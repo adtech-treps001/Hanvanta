@@ -1,0 +1,73 @@
+# Hanvanta
+
+Hanvanta Technologies Pvt Limited, also known as Hanvanta, helps low-digital businesses, growing companies, and enterprises become AI-first by deploying connected AI solutions. Hanvanta connects digital presence, legacy tools, enterprise software, ERP, CRM, supply chain, MES, factory-floor systems, IoT, robotics, workflows, AI agents, human teams, approved interactions, system events, machine signals, governed memory, knowledge graph, source-linked context, and policy controls into practical operating loops.
+
+## Core positioning
+
+- Main motto: Real work. Unified context. AI-first operations.
+- Hanvanta's public message is about solving real business problems: disconnected systems, manual handoffs, wasted tool spend, missing context, unmanaged AI usage, and AI pilots that do not reach daily operations.
+- Startup thesis: AI agents are becoming execution infrastructure, but most companies are not operationally ready because their data, tools, approvals, policies, and workflows are fragmented.
+- Hanvanta's wedge is to start with one connected solution, prove value, then expand across company workflows, departments, machines, and systems.
+- For low-digital companies, Hanvanta can build the AI-ready digital foundation: website, chatbot, content, lead capture, customer workflows, and simple automation.
+- For medium companies, Hanvanta can connect static tools, legacy processes, CRM, finance, HR, inventory, communication, approvals, and workflow memory.
+- For enterprises, Hanvanta can reduce tool waste by unifying expensive disconnected systems such as ERP, CRM, supply chain, MES, factory-floor systems, IoT, robotics, and policy-controlled operations.
+- Hanvanta is preparing demo products including a website chatbot, voice agent lab, research agent, and workflow hyperframes.
+- AI agents and human-in-the-loop workflows for business automation, support, marketing, sales, HR, finance, operations, supply chain, field work, research, browser tasks, live web panels, and management assistance.
+- Controlled connectors for company software, communication channels, files, CRM, ERP, MES, IoT, cameras, APIs, and customer-cloud workflows.
+- Company memory and knowledge graph across documents, communication, CRM, ERP, MES, machines, content workflows, approvals, policies, interactions, system events, decisions, and outcomes.
+- Persona-aware context delivery: customers, employees, managers, field teams, AI agents, and machines receive the right allowed context in their own workflow, with source-linked answers where evidence is available.
+- Self-hosted or customer-cloud AI workflows with approved access, policy control, audit trails, observability, data safety, and company-controlled deployment boundaries.
+- Hanvanta is positioned as a company-specific AI operating layer, not just an individual chatbot, single-user connector, or single workflow engine.
+
+## Investor framing
+
+- Market timing: agentic AI is shifting enterprise AI from answers and copilots toward workflow execution.
+- Problem: companies have disconnected systems, scattered data, manual approvals, fragmented communication, and limited governance.
+- Product thesis: controlled connectors plus unified memory plus workflow orchestration plus live panels can become the operating layer for company AI employees.
+- Expansion motion: support, marketing, operations, field intelligence, machine intelligence, and content workflows can be entry points into broader enterprise automation.
+- Defensibility direction: customer-specific knowledge graph, workflow history, connector depth, policy rules, source-linked context, and operational feedback loops improve over time.
+
+## Early customer contexts
+
+- Kiran Collections (kirancollections.online): retail and commerce context for digital presence, customer engagement, content, and automation workflows.
+- Skyline Infragroup: real estate context for lead handling, customer communication, content workflows, and sales follow-up.
+- These are early customer or demo contexts, not published case-study claims.
+
+## Use cases
+
+- Branded content generation workflows for social media, campaigns, websites, ads, product updates, approvals, scheduling, publishing, and performance learning.
+- Enterprise workflow automation across ERP, CRM, HRMS, finance, inventory, procurement, supply chain, and approvals.
+- Industrial workflows for MES, machines, IoT, cameras, vision intelligence, maintenance, quality, safety, and field operations.
+- Research agents, browser agents, chatbots, web viewers, code interpreters, and search agents connected to approved company context.
+- Live generated web panels, approval screens, dashboards, and hyperframe-style interfaces that turn chat requests into usable business screens.
+
+## Tools and systems
+
+Hanvanta can evaluate and integrate open-source, self-hosted, or custom components when they fit the customer workflow. Technology groups include agent and assistant layers, workflow orchestration, knowledge and memory, model hosting, browser/content/media automation, and business or field system connectors. Example tools and patterns include OpenClaw, Hermes, NemoClaw, LangGraph, LangChain, Dify, Temporal, Prefect, Airflow, LlamaIndex, Haystack, Qdrant, pgvector, vLLM, Ollama, Playwright, ComfyUI, ERP, CRM, MES, SCADA, PLC, and IoT systems. Hanvanta can also route between local models, larger hosted models, fine-tuned models, and specialized agents for cost, privacy, speed, and quality.
+
+## Comparison context
+
+- ChatGPT or Claude connectors: familiar for personal productivity and individual tool access. Hanvanta focuses on the company layer with governed connectors, role access, policy, memory, auditability, and workflow ownership.
+- Claude Work or enterprise assistants: useful for knowledge work when context is already organized. Hanvanta also connects messy business systems, customers, ERP, CRM, supply chain, MES, machines, workflows, and approvals.
+- OpenClaw or browser agents: useful for browser and research tasks. Hanvanta can use browser agents as worker types inside controlled company workflows.
+- n8n, Dify, Temporal, Prefect: useful workflow engines. Hanvanta chooses the suitable engine per customer and connects it to memory, AI agents, human review, and system-of-record data.
+- Groq, NVIDIA, Sarvam, local models: foundation providers for inference, hosting, and voice. Hanvanta routes them through backend infrastructure with access control, logs, fallbacks, cost controls, privacy boundaries, and no public frontend key exposure.
+- ERP, CRM, MES, IoT, robotics: systems where operational truth lives. Hanvanta connects them into a governed AI operating loop.
+
+## Location
+
+Hanvanta has a Hyderabad, Telangana presence, including shared office presence around ECIL and Gachibowli.
+
+## Products
+
+- Zetalta: AI-powered innovation and learning platform.
+- RestauAI: AI automation for restaurants.
+- Zonbrot: AI voice bot platform under development.
+
+## Demo roadmap
+
+- Hanvanta Chatbot: website assistant for pitch explanation, lead capture, and approved company knowledge.
+- Voice Agent Lab: voice agents for calling, support, sales follow-up, restaurant workflows, and customer conversations. Sarvam voice APIs may be used where suitable.
+- Research Agent: browser and search agents that collect evidence, compare options, and prepare reports.
+- Workflow Hyperframes: chat-to-panel demos where an AI request becomes a dashboard, approval screen, or live workflow page.
+- Foundation provider note: Groq, NVIDIA, Sarvam, and future model or voice providers should run through Hanvanta's backend layer with access control, logs, routing, fallbacks, cost limits, privacy boundaries, and customer-specific deployment rules.

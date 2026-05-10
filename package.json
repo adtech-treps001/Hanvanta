@@ -1,0 +1,17 @@
+{
+  "name": "hanvanta",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Hanvanta landing page",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:single": "vite build && node scripts/inline-dist.mjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.1",
+    "vite": "^8.0.4"
+  }
+}
