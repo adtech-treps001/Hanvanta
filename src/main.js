@@ -464,6 +464,27 @@ document.querySelector('#app').innerHTML = `
         </div>
       </section>
 
+      <section class="stat-strip">
+        <div class="stat-strip-inner">
+          <div class="stat-item">
+            <strong class="stat-value">7</strong>
+            <span class="stat-label">Solution areas</span>
+          </div>
+          <div class="stat-item">
+            <strong class="stat-value">3</strong>
+            <span class="stat-label">Products in ecosystem</span>
+          </div>
+          <div class="stat-item">
+            <strong class="stat-value">∞</strong>
+            <span class="stat-label">Systems connectable</span>
+          </div>
+          <div class="stat-item">
+            <strong class="stat-value">1</strong>
+            <span class="stat-label">Unified operating layer</span>
+          </div>
+        </div>
+      </section>
+
       <section class="section problem-section" id="problem">
         <div class="section-heading reveal">
           <p class="eyebrow">Investor-grade thesis</p>
@@ -584,6 +605,14 @@ document.querySelector('#app').innerHTML = `
         <ul class="trust-list trust-list--compact reveal">
           ${trustMarkup}
         </ul>
+      </section>
+
+      <section class="manifesto-section">
+        <div class="manifesto-inner">
+          <p class="manifesto-eyebrow">The operating layer problem</p>
+          <h2 class="manifesto-heading">The problem isn't tools.<br>It's that none of them talk to each other.</h2>
+          <p class="manifesto-sub">Hanvanta builds the connected AI operating layer that sits above your tools — governing memory, routing agents, enforcing policy, and turning disconnected work into measurable outcomes.</p>
+        </div>
       </section>
 
       <section class="section section--products" id="products">
