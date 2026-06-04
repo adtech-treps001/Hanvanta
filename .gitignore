@@ -25,3 +25,5 @@ qa-screenshots
 *.sw?
 .vercel
 .env*.local
+.env.dev
+.env.prod
